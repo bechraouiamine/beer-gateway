@@ -69,6 +69,7 @@ local.properties
 ######################
 /log/
 */target/**
+/target/**
 ######################
 # Gradle
 ######################
@@ -140,6 +141,3 @@ Desktop.ini
 .eslintcache
 /.idea/
 
-target/classes/application-local-discovery.properties
-target/classes/application.properties
-target/classes/logback-spring.xml
